@@ -20,7 +20,7 @@ Algoritimo AtravessarRua          AlgoritimoAtravessarRua
    *FimSe*                           *FimSe* 
 FimAlgoritimo                     FimAlgoritimo
 ```
-  ✔️✔️✔️✔️✔️✔️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️✔️✔️✔️✔️✔️ 
+  ✔️✔️✔️✔️✔️✔️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&✔️✔️✔️✔️✔️✔️ 
 ```  
 Algoritimo  AtravessarRua
    Atravesse
