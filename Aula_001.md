@@ -5,10 +5,8 @@
 > **Algorítimos** são um conjunto de passos **finitos** e **organizados** que, quando executados, resolvem um determinado **problema**.'*MANZANO_Algorítimo,Lógica para Desenvolvimento de Programação de Computadores*.'
 
 E a reprodução de um padrão,ou seja algorítimos, é conhecido como **Rotina**
-
-Ex:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Os passos são dados de cima para baixo e da direita para esquerda.*
+Ex:
+*Os passos são dados de cima para baixo e da direita para esquerda.*
 ```
 Algoritimo AtravessarRua          AlgoritimoAtravessarRua
    Olhar para a direita              Olhar para esquerda 
@@ -20,7 +18,7 @@ Algoritimo AtravessarRua          AlgoritimoAtravessarRua
    *FimSe*                           *FimSe* 
 FimAlgoritimo                     FimAlgoritimo
 ```
-  ✔️✔️✔️✔️✔️✔️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️✔️✔️✔️✔️✔️ 
+  ✔️✔️✔️✔️✔️✔️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️✔️✔️✔️✔️✔️ 
 ```  
 Algoritimo  AtravessarRua
    Atravesse
