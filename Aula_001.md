@@ -19,7 +19,7 @@ Algoritimo AtravessarRua          AlgoritimoAtravessarRua
 FimAlgoritimo                     FimAlgoritimo
 ```
   ✔️✔️✔️✔️✔️✔️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️✔️✔️✔️✔️✔️ 
-  
+```  
     Algoritimo  AtravessarRua
        Atravesse
        Se estiver vindo carro 
@@ -28,5 +28,5 @@ FimAlgoritimo                     FimAlgoritimo
           Olhar para esquerda
        FimSe      
     FimAlgoritimo
-    
+```    
 ❌❌❌❌❌❌
